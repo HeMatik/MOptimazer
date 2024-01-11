@@ -1,0 +1,11 @@
+name: MOptimazer
+version: '${project.version}'
+main: me.matt.moptimazer.MOptimazer
+api-version: '1.20'
+authors: [Mattgyve1990]
+description: Crystal optimization plugin
+commands:
+  moptimazer:
+    usage: /<command>
+    description: crystal optimization
+    aliases: optimazer
